@@ -7,6 +7,7 @@
 
 ## Technologies Used
 
+- **React.js + TailwindCSS**
 - **Node.js + Express.js**
 - **MongoDB + Mongoose**
 - **Haversine Formula** for distance calculation
