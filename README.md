@@ -1,8 +1,7 @@
 # NearBuy
-A full-stack product discovery app that shows users the nearest vendors based on their location. Built using Node.js, Express, MongoDB, and distance-based products search with map integration.
-# NearBuy 📍
 
-**NearBuy** is a full-stack Node.js app that allows users to search for products and see results sorted by the distance of vendors from their current location.
+
+**NearBuy** is a full-stack product discovery app that shows users the nearest vendors based on their location. It allows users to search for products and see results sorted by the distance of vendors from their current location. Built using Node.js, Express, MongoDB, and a distance-based products search with map integration.
 
 ---
 
@@ -19,7 +18,7 @@ A full-stack product discovery app that shows users the nearest vendors based on
 
 -  Product Search with Filters (name, category, price)
 -  Distance-based vendor sorting using user location
--  Accurate geo-distance using Haversine formula
+-  Accurate geo-distance using the Haversine formula
 -  Fast product discovery UX
 -  RESTful architecture
 
