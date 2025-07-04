@@ -1,0 +1,42 @@
+Vendor
+Vendor data (login, signup):
+
+1. Business Name
+2. Email
+3. Password
+4. Business Address (Optional)
+5. Location ([longitude, latitude])
+6. Phone Number
+7. Business Category
+8. Description (Optional)
+9. Verification Status
+10. Profile Picture (Optional)
+11. Created At
+12. Updated At
+
+
+User
+User data (login, signup):
+
+1. User Name
+2. Email
+3. Password
+4. Phone Number (Optional)
+5. Created At
+6. Updated At
+Shops
+
+Shops data:
+
+1. Vendor ID
+2. Operating Hours
+3. Rating
+4. Created At
+5. Updated At
+6. Product Name
+7. Product Price
+8. Product Description
+9. Product Picture (Multiple URLs)
+10. Product Category
+11. Product Created At
+12. Product Updated At
